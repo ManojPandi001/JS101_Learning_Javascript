@@ -1,4 +1,4 @@
-let name = "Manoj Pandit "; // My name is return as Manoj Pandit 
+let name = "Manoj Pandit "; // My name is return as _____.
 
 let father_name = "Moti Pandit "; 
 
