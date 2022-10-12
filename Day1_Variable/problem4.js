@@ -1,4 +1,4 @@
-//printing report card 
+//printing report card of name ,school, grade, class, section, roll no, and marks
 
 let name = "Dᴇᴇᴘᴀᴋ Bɪsᴛ";
 let school = "𝔾𝕠𝕧𝕥. 𝔹𝕠𝕪𝕤 𝕊𝕖𝕔𝕠𝕟𝕕𝕒𝕣𝕪 𝕊𝕔𝕙𝕠𝕠𝕝";
